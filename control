@@ -1,0 +1,9 @@
+Package: com.opa334.apollofix
+Name: ApolloFix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix Apollo crash when changing gesture settings!
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
